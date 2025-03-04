@@ -10,9 +10,9 @@ This project demonstrates how network traffic flows between Azure Virtual Machin
 - Network Protocols (ICMP, SSH, DHCP, DNS, RDP)
 - Operating Systems: Windows 10 (21H2), Ubuntu Server 20.04
 
-Steps & Observations
+<h2>Steps & Observations</h2>
 
-Virtual Environment Setup
+<h3>Virtual Environment Setup</h3>
 
 Created a Resource Group in Azure.
 
