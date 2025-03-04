@@ -1,22 +1,14 @@
-Network Security Groups (NSGs) and Traffic Inspection in Azure
-
-Overview
-
+<h1>Network Security Groups (NSGs) and Traffic Inspection in Azure</h1>
 This project demonstrates how network traffic flows between Azure Virtual Machines using Wireshark. It also explores how Network Security Groups (NSGs) affect different protocols, including ICMP, SSH, DHCP, DNS, and RDP.
 
-Technologies Used
+<h2>Technologies Used</h2>
 
-Microsoft Azure (Virtual Machines, Compute, Network Security Groups)
-
-Remote Desktop
-
-Wireshark (Protocol Analyzer)
-
-Command-Line Tools
-
-Network Protocols (ICMP, SSH, DHCP, DNS, RDP)
-
-Operating Systems: Windows 10 (21H2), Ubuntu Server 20.04
+- Microsoft Azure (Virtual Machines, Compute, Network Security Groups)
+- Remote Desktop
+- Wireshark (Protocol Analyzer)
+- Command-Line Tools
+- Network Protocols (ICMP, SSH, DHCP, DNS, RDP)
+- Operating Systems: Windows 10 (21H2), Ubuntu Server 20.04
 
 Steps & Observations
 
