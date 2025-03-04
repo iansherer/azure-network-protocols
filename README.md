@@ -16,7 +16,7 @@ This project demonstrates how network traffic flows between Azure Virtual Machin
 
 Created a Resource Group in Azure.
 <p>
-  <img src="https://imgur.com/bPFWA8U" height="75%" width="100%" alt="Resource Group"/>
+  <img src="https://imgur.com/bPFWA8U.png" height="75%" width="100%" alt="Resource Group"/>
 </p>
 
 Deployed a Windows 10 Virtual Machine, allowing Azure to generate a new Virtual Network (Vnet) and Subnet.
